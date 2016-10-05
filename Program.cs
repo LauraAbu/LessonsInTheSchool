@@ -10,6 +10,7 @@ namespace lessonInTheSchool1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Labas");
             Console.WriteLine("Laba diena Mokytojai!");
             Console.ReadKey();
             
