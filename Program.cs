@@ -11,8 +11,7 @@ namespace lessonInTheSchool1
         static void Main(string[] args)
         {
             Console.WriteLine("Laba diena Mokytojai!");
-            Console.ReadKey();
-            
+            Console.ReadLine();
         }
     }
 }
